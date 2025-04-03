@@ -65,7 +65,7 @@ showXYPositions();
   
   if(canSceneEnd == 1){
     fill(0, 0, 100);
-    text("yes a shark, it makes sense, \n it's not because i needed a custom funtion.", 10, 100);
+    text("yes a shark, it makes sense, \n it's not because i needed a custom function.", 10, 100);
     
     fill(0, 0, 0);
     if(numberOfCans == 0){
